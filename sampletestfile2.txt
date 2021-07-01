@@ -1,1 +1,2 @@
-this is sample file 2
+sample commit
+his is sample file 2
